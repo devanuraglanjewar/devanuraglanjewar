@@ -1,6 +1,6 @@
 # Anurag Lanjewar 
 # 💫 About Me:
-Hey there! <br>I'm a Full-stack Dveloper<br>I build beautiful, functional websites that understand your users and I'm on a mission to bring the power of data to the front-end.<br>Dive into my code ➡️, explore my projects, and let's chat about building the future of the web!
+Hey there! <br>I'm a Full-stack Dveloper<br>I build beautiful, functional websites and mission critical applications that understand your users, and I'm on a mission to bring the power of data to the front-end.<br>Dive into my code ➡️, explore my projects, and let's chat about building the future!
 
 
 ## 🌐 Socials:
