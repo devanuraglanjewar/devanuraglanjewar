@@ -3,16 +3,20 @@
 ### 💫 About Me
 I'm a **Full-stack Developer** & **AI/ML Engineer**.
 
-- 🤖 **GenAI & AI Pipelines:** I build end-to-end GenAI applications, specialized LLM API integrations, vector search pipelines, and local model workflows (Ollama, Hugging Face).
+- 🤖 **GenAI & AI Pipelines:** I build end-to-end GenAI applications, LLM API integrations (Gemini, Claude, Codex), vector search pipelines, and enterprise data architectures.
 - ⚡ **Full-Stack & Systems:** I architect scalable web applications, custom developer tools, and IoT automation systems from scratch.
-- 🎯 **Front-End & Data:** Focused on bridging intelligent data backends with sleek, modern front-end user experiences.
+- 🎯 **Front-End & Data:** Focused on bridging intelligent data backends (Palantir ecosystem, vector DBs) with sleek, modern front-end user experiences.
 - 💬 Ask me about: **LLM Orchestration, Vector DBs (Chroma/Chroma Cloud), React, Node.js, & IoT Buildouts.**
 
 ---
 
 ## 💻 Tech Stack
 
-**AI & Machine Learning**
+**AI, LLMs & Data Platforms**
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B5?style=flat-square&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI%20Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Palantir](https://img.shields.io/badge/Palantir-101010?style=flat-square&logo=palantir&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
